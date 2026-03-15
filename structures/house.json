@@ -1,0 +1,13 @@
+{
+  "format_version": "1.16.0",
+  "minecraft:structure": {
+    "structure_name": "house",
+    "size": [5,5,5],
+    "blocks": [
+      {"pos":[0,0,0], "name":"minecraft:oak_planks"},
+      {"pos":[1,0,0], "name":"minecraft:oak_planks"},
+      {"pos":[0,1,0], "name":"minecraft:oak_planks"},
+      {"pos":[1,1,0], "name":"minecraft:oak_planks"}
+    ]
+  }
+}
